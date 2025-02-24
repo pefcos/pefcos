@@ -2,7 +2,7 @@
 
 I'm a professional Full Stack developer
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,ruby,rails,js,ts,nodejs,vue,react,py,flask,docker,redis,postgres,git,linux,vscode,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,ruby,rails,js,ts,nodejs,vue,react,py,flask,docker,redis,postgres,git,linux,vscode,godot&perline=20)](https://skillicons.dev)
 
 - 🌱 I’m currently learning Kotlin
 - 😄 Pronouns: He/Him
