@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Pedro 👋
+
+I'm a professional Full Stack developer
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,ruby,rails,js,ts,nodejs,vue,react,py,flask,docker,redis,postgres,git,linux,vscode,godot)](https://skillicons.dev)
+
+- 🌱 I’m currently learning Kotlin
+- 😄 Pronouns: He/Him
 
 <!--
 **pefcos/pefcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
