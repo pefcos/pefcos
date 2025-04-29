@@ -1,10 +1,13 @@
 ## Hi there, I'm Pedro 👋
 
-I'm a professional Full Stack developer
+I'm a professional Software Engineer, currently working with **Ruby on Rails** and **Vue.js**. I also enjoy coding in **Java** and **Kotlin**.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,ruby,rails,js,ts,nodejs,vue,react,py,flask,docker,redis,postgres,git,linux,vscode,godot&perline=20)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,java,kotlin,js,ts,py,nodejs,html,css,sass,vue,react,docker,redis,postgres,git,linux,vscode&perline=20&theme=dark)
 
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on the Inertia4J adapters
+- 🌱 I’m currently learning about Kotlin DSLs
+- 👯 I’m looking to collaborate on Semantic HTML focused projects
+- 💬 Ask me about esoteric programming languages
 - 😄 Pronouns: He/Him
 
 <!--
