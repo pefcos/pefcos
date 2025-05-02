@@ -6,8 +6,6 @@ I'm a professional Software Engineer, currently working with **Ruby on Rails** a
 
 - 🔭 I’m currently working on the [Inertia4J adapters](https://github.com/Inertia4J/inertia4j)
 - 🌱 I’m currently learning about Kotlin DSLs
-- 👯 I’m looking to collaborate on Semantic HTML focused projects
-- 💬 Ask me about esoteric programming languages
 - 😄 Pronouns: He/Him
 
 <!--
