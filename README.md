@@ -2,7 +2,7 @@
 
 I'm a professional Software Engineer, currently working with **Ruby on Rails** and **Vue.js**. I also enjoy coding in **Java** and **Kotlin**.
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,java,kotlin,js,ts,py,nodejs,html,css,sass,vue,react,docker,redis,postgres,git,linux,vscode&perline=20&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,php,laravel,java,kotlin,js,ts,py,nodejs,html,css,sass,angular,react,docker,redis,postgres,git,linux,vscode&perline=22&theme=dark)
 
 - 🔭 I’m currently working on the [Inertia4J adapters](https://github.com/Inertia4J/inertia4j)
 - 🌱 I’m currently learning Rust
